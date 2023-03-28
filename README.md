@@ -1,5 +1,5 @@
 ## 👋 Hi, 
-im Pedro, commonly called Void, Pepe, Perdo... by the way, i am a brazilian developer, who is looking for learn new technologies and do what i like envolving programming or related things.
+im Pedro, commonly called Void, Pepe, Perdo... by the way, i am a brazilian developer, who is looking for learn new technologies and do what i like envolving programming or related things, 
 
 <div align="center"> 
 <a href="https://github.com/VoidPep">
@@ -14,5 +14,5 @@ im Pedro, commonly called Void, Pepe, Perdo... by the way, i am a brazilian deve
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
 </div>
