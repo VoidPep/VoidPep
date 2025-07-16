@@ -1,4 +1,4 @@
-<img align="left" height="290" src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif"  />
+<img align="left" height="450" src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif"  />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
   <img width="14" />
