@@ -1,29 +1,17 @@
 <img align="left" height="450" src="https://media.tenor.com/Os38-K7VHL4AAAAM/shibainu-typing.gif"  />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="37" alt="typescript logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="37" alt="vuejs logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="37" alt="nodejs logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=blender" height="37" alt="blender logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=electron" height="37" alt="electron logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" height="37" alt="git logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="37" alt="jenkins logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=rider" height="37" alt="rider logo"  />
-  <img width="14" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="37" alt="visualstudio logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="37" alt="csharp logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="37" alt="dot-net logo"  />
-  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="37" alt="dotnetcore logo"  />
 </div>
 
