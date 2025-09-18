@@ -37,3 +37,6 @@
 
 ---
 <img src="https://raw.githubusercontent.com/VoidPep/VoidPep/output/snake.svg" alt="Snake animation" />
+
+---
+[![An image of @voidpep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/voidpep)](https://holopin.io/@voidpep)
