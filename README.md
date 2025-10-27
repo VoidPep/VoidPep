@@ -32,13 +32,18 @@
 🚀 Exploring devops and automations
 
 🔹 [Enviroment config.](https://github.com/VoidPep/enviroment-config) — Minha configuração de ambiente
+
+
 🔹 [background-queue-rabbitMQ](https://github.com/VoidPep/background-queue-rabbitMQ) - Implementação de uma fila de processamento assíncrono utilizando RabbitMQ, demonstrando compreensão de arquiteturas escaláveis.
-🔹 [redmine-time-tracker](https://github.com/VoidPep/redmine-time-tracker)
-- Ferramenta para integração com Redmine, automatizando o rastreamento de tempo de tarefas.
-🔹 [viaja-ai](https://github.com/VoidPep/viaja-ai)
-- Aplicação fullstack para planejamento de viagens, utilizando Vue3, TypeScript e Node.js.
-🔹 [DataFaker-.NET](https://github.com/VoidPep/DataFaker-.NET)
-- Biblioteca para geração de dados falsos, útil para testes e prototipagem.
+
+
+🔹 [redmine-time-tracker](https://github.com/VoidPep/redmine-time-tracker) - Ferramenta para integração com Redmine, automatizando o rastreamento de tempo de tarefas.
+
+
+🔹 [viaja-ai](https://github.com/VoidPep/viaja-ai) - Aplicação fullstack para planejamento de viagens, utilizando Vue3, TypeScript e Node.js.
+
+
+🔹 [DataFaker-.NET](https://github.com/VoidPep/DataFaker-.NET) - Biblioteca para geração de dados falsos, útil para testes e prototipagem.
 
 ---
 <img src="https://raw.githubusercontent.com/VoidPep/VoidPep/output/snake.svg" alt="Snake animation" />
