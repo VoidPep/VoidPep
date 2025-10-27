@@ -27,13 +27,27 @@
 </div>
 
 ---
-# 👋 Hey there, im Pedro
-
 🎯 .NET | C# • JS/TS • Vue3 • DevOps
 🎓 Graduated in Systems Analysis and Development
 🚀 Exploring devops and automations
 
 🔹 [Enviroment config.](https://github.com/VoidPep/enviroment-config) — My enviroment config
+
+🔹 [background-queue-rabbitMQ](https://github.com/VoidPep/background-queue-rabbitMQ)
+Descrição: Implementação de uma fila de processamento assíncrono utilizando RabbitMQ, demonstrando compreensão de arquiteturas escaláveis.
+Destaque: Excelente para evidenciar seu conhecimento em mensageria e processamento em segundo plano.
+
+🔹 [redmine-time-tracker](https://github.com/VoidPep/redmine-time-tracker)
+Descrição: Ferramenta para integração com Redmine, automatizando o rastreamento de tempo de tarefas.
+Destaque: Mostra sua capacidade de resolver problemas reais com soluções práticas.
+
+🔹 [viaja-ai](https://github.com/VoidPep/viaja-ai)
+Descrição: Aplicação fullstack para planejamento de viagens, utilizando Vue3, TypeScript e Node.js.
+Destaque: Demonstra habilidades em desenvolvimento front-end e integração com back-end.
+
+🔹 [DataFaker-.NET](https://github.com/VoidPep/DataFaker-.NET)
+Descrição: Biblioteca para geração de dados falsos, útil para testes e prototipagem.
+Destaque: Reforça seu entendimento em design de bibliotecas e reutilização de código.
 
 ---
 <img src="https://raw.githubusercontent.com/VoidPep/VoidPep/output/snake.svg" alt="Snake animation" />
