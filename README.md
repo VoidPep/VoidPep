@@ -37,12 +37,6 @@
 🔹 [background-queue-rabbitMQ](https://github.com/VoidPep/background-queue-rabbitMQ) - Implementação de uma fila de processamento assíncrono utilizando RabbitMQ
 
 
-🔹 [redmine-time-tracker](https://github.com/VoidPep/redmine-time-tracker) - Ferramenta para integração com Redmine, automatizando o rastreamento de tempo de tarefas.
-
-
-🔹 [viaja-ai](https://github.com/VoidPep/viaja-ai) - Aplicação fullstack para planejamento de viagens, utilizando Vue3, TypeScript e Node.js.
-
-
 🔹 [DataFaker-.NET](https://github.com/VoidPep/DataFaker-.NET) - Biblioteca para geração de dados falsos para testes e prototipagem.
 
 ---
