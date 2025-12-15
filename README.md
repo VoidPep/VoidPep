@@ -27,9 +27,13 @@
 </div>
 
 ---
-🎯 .NET | C# • JS/TS • Vue3 • DevOps
+🎯 .NET | C# • JS/TS • Vue3 • Sofware Architecture
+</br>
 🎓 Graduated in Systems Analysis and Development
-🚀 Exploring devops and automations
+</br>
+🚀 Focused in Software Architecture
+</br>
+
 
 🔹 [Enviroment config.](https://github.com/VoidPep/enviroment-config) — Minha configuração de ambiente
 
