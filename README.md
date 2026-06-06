@@ -37,9 +37,9 @@
 
 🔹 [Enviroment config.](https://github.com/VoidPep/enviroment-config) — Minha configuração de ambiente
 
+🔹 [background-queue-rabbitMQ](https://github.com/VoidPep/background-queue-rabbitMQ) - POC - Implementação de uma fila de processamento assíncrono utilizando RabbitMQ
 
-🔹 [background-queue-rabbitMQ](https://github.com/VoidPep/background-queue-rabbitMQ) - Implementação de uma fila de processamento assíncrono utilizando RabbitMQ
-
+🔹 [LP Para advogado previdenciário](https://github.com/VoidPep/lp-mario-martins) - Biblioteca para geração de dados falsos para testes e prototipagem. ([http://mariocruzadvogado.com/](http://mariocruzadvogado.com/))
 
 🔹 [DataFaker-.NET](https://github.com/VoidPep/DataFaker-.NET) - Biblioteca para geração de dados falsos para testes e prototipagem.
 
